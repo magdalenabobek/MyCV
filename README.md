@@ -14,4 +14,4 @@ Celem projektu jest wykorzystanie stworzenie strony www własnego CV za użyciem
 - przystosujesz stronę pod urządzenia mobilne (RWD)
 
 ### Wymagania
-Do wykonania zadań konieczna jest podstawowa znajomość HTML i CSS!
+Do wykonania zadań konieczna jest podstawowa znajomość HTML i CSS!# MyCV
